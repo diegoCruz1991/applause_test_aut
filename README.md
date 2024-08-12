@@ -29,6 +29,7 @@ npm run test
 # Generate and open report
 npm run allure:generate
 npm run allure:open
+```
 
 ## Importante notes!
-- Skyscanner has a CAPTCHA for robots and does not allow to automate the page, this test cannot run completely but each CSS selector was tested independently and validated.
+- Skyscanner has a CAPTCHA for robots and doesn't allow to automate the page, this test cannot run completely but each CSS selector was tested independently and validated.
